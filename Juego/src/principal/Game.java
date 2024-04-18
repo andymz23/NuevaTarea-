@@ -1,7 +1,7 @@
 package principal;
 
 import java.util.Random;
-
+//Soy el nuevo programador para el proyecto
 public class Game {
     private int number;
     private int maxNumber;
